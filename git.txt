@@ -1,0 +1,14 @@
+open folder and then terminal 
+git init
+git status
+
+#copy remote URL
+git remote add origin https://github.com/------/landing-page.git
+
+
+ git add -A
+
+ git commit -m "Initial commit"
+git push origin master
+
+(all doone)
